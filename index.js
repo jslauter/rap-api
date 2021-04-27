@@ -1,4 +1,4 @@
-alert("hello")
+alert("hello!")
 
 document.querySelector(".realName").addEventListener("click", getRapName)
 
